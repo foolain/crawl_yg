@@ -1,0 +1,4 @@
+.idea/
+crawl_yg/spiders/__pycache__/
+crawl_yg/tmp/
+crawl_yg/__pycache__/
